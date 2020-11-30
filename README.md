@@ -1,5 +1,5 @@
 <h1>Hey, I'm Mayank</h1>
-# Mayank Jaiswal 😃
+Mayank Jaiswal 😃
 ### I am a  DEVELOPER, I am working on **HTML**,**CSS**
 
 I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
