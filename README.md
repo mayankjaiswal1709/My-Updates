@@ -8,11 +8,10 @@ I am a DEVELOPER, I am working on **HTML**,**CSS**,**JAVASCRIPT**
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=Mayankjaiswal1709&show_icons=true" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal1709" /></p>
-<img align="right" src="https://github.com/dmayakjaiswal1709/mayankjaiswal1709/blob/master/assets/code.gif" height="300" width="400">
 
 <p>
 <h1>Hey, I'm Mayank</h1>
-<img align="right" src="https://github.com/Mayank-pro/Mayank-pro/blob/master/assets/code.gif" height="300" width="400">
+<img align="right" src="https://github.com/mayankjaiswal1709/mayankjaiswal1709/blob/master/assets/" height="300" width="400">
 </p>
 <p align="left"><a href="https://mobile.twitter.com/Mjmayank9340" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deepakjoshipro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@joshideepak4598" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a></p>
